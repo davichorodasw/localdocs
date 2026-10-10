@@ -147,3 +147,15 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Documentos locales
+documento.txt
+
+
+# Variables y datos privados
+.env
+data/
+*.db
+
+# Archivos de macOS
+.DS_Store
